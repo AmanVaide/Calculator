@@ -1,6 +1,6 @@
 .container{
     text-align: center;
-    margin-top:23px
+    margin-top:50px
 }
 
 table{
@@ -18,7 +18,7 @@ input{
 button{
     border-radius: 20px;
     font-size: 40px;
-    background: #000000;
+    background: rgb(251, 249, 249);
     width: 102px;
     height: 90px;
     margin: 6px;
@@ -34,6 +34,6 @@ button{
 }
 
 h1{
-    font-size: 28px;
+    font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
 }
